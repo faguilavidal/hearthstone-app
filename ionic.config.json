@@ -1,0 +1,8 @@
+{
+  "name": "hearthstone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c80b4c01"
+}

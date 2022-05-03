@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "hearthstone",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
